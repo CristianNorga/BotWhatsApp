@@ -1,0 +1,21 @@
+{
+  "name": "botwhatsapp",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp whatsapp-web.js\r Dependencia -> moment exceljs qrcode-terminal\r opcionales -> ora = pintar consola, chalk = spinners, mime-db = identificar archivos",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "exceljs": "^4.3.0",
+    "mime-db": "^1.52.0",
+    "moment": "^2.29.1",
+    "ora": "^6.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
